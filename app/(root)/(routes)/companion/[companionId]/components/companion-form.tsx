@@ -234,7 +234,7 @@ const CompanionForm = ({
                                     />
                                 </FormControl>
                                 <FormDescription>
-                                    Describe in detail your Character's backstory and relavant details.
+                                    Describe in detail your Character&aposs backstory and relavant details.
                                 </FormDescription>
                                 <FormMessage />
                             </FormItem>
